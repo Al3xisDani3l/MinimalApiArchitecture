@@ -1,6 +1,6 @@
 ﻿# Minimal API Vertical Slice Architecture
 
-This project is an experiment trying to create a solution template with Minimal APIs and Carter.
+This project is the basis with principles of separation of Leitec Services.
 
 # Technologies and patterns used
 
