@@ -5,6 +5,7 @@
 	<Nullable>enable</Nullable>
 	<ImplicitUsings>enable</ImplicitUsings>
 	<RootNamespace>MinimalApiArchitecture.Api</RootNamespace>
+	<UserSecretsId>b077d44c-7317-4200-bb06-ff8246f62906</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
